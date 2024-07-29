@@ -1,3 +1,6 @@
+Project Description:
+Building a Price Classification System (AI System) for Mobile Devices using Python. Include Data preparation,Training, model evaluation, Testing, and runing the service.  
+
 How to run?
 1) go to project directory 'code'
 2) go to local_paths.py, and set the paths for training data, testing data ,trained_model_folder, json sample file, as they are on your computer
